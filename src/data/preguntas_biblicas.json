@@ -1,0 +1,2764 @@
+{
+  "preguntas": [
+    {
+      "nivel": "facil",
+      "pregunta": "¿Cuál era el instrumento musical que tocaba David?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "Tambor",
+        "b": "Arpa",
+        "c": "Flauta"
+      }
+    },
+    {
+      "nivel": "facil",
+      "pregunta": "¿Dónde pusieron a Jesús cuando nació?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "En una cama",
+        "b": "En un pesebre",
+        "c": "En un trono"
+      }
+    },
+    {
+      "nivel": "facil",
+      "pregunta": "¿Con cuál semilla comparó Jesús al reino de Dios?",
+      "alternativa_correcta": "a",
+      "alternativas": {
+        "a": "Con el grano de mostaza",
+        "b": "Con el grano de maíz",
+        "c": "Con la semilla de la uva"
+      }
+    },
+    {
+      "nivel": "facil",
+      "pregunta": "¿Qué pensaba la mujer con el flujo de sangre que tocó el manto de Jesús?",
+      "alternativa_correcta": "a",
+      "alternativas": {
+        "a": "«Si al menos logro tocar su manto, quedaré sana»",
+        "b": "«Tengo que llamar la atención de Jesús para quedar sana»",
+        "c": "«Tengo que interrumpir el camino del Señor»"
+      }
+    },
+    {
+      "nivel": "facil",
+      "pregunta": "¿A quién lanzaron al foso de los leones?",
+      "alternativa_correcta": "c",
+      "alternativas": {
+        "a": "Pablo",
+        "b": "José",
+        "c": "Daniel"
+      }
+    },
+    {
+      "nivel": "facil",
+      "pregunta": "¿Cuántas fueron las plagas que Dios envió a Egipto?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "7 plagas",
+        "b": "10 plagas",
+        "c": "3 plagas"
+      }
+    },
+    {
+      "nivel": "facil",
+      "pregunta": "¿A quiénes se conoce como los Patriarcas de la Biblia?",
+      "alternativa_correcta": "c",
+      "alternativas": {
+        "a": "Jesús, María y José",
+        "b": "Pedro, Juan y Santiago",
+        "c": "Abraham, Isaac y Jacob"
+      }
+    },
+    {
+      "nivel": "facil",
+      "pregunta": "¿Quién le enseñó a los discípulos la oración del «Padre nuestro»?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "Los fariseos",
+        "b": "Jesús",
+        "c": "Pablo"
+      }
+    },
+    {
+      "nivel": "facil",
+      "pregunta": "¿A qué fueron Jesús y sus padres a Jerusalén cuando él tenía 12 años?",
+      "alternativa_correcta": "a",
+      "alternativas": {
+        "a": "A celebrar la fiesta de la Pascua",
+        "b": "A visitar a sus primos",
+        "c": "A celebrar el cumpleaños de su papá"
+      }
+    },
+    {
+      "nivel": "facil",
+      "pregunta": "¿Quién fue el «asistente» del profeta Elías?",
+      "alternativa_correcta": "a",
+      "alternativas": {
+        "a": "Eliseo",
+        "b": "Enoc",
+        "c": "Jonás"
+      }
+    },
+    {
+      "nivel": "facil",
+      "pregunta": "¿Cuál es el último capítulo de la Biblia?",
+      "alternativa_correcta": "a",
+      "alternativas": {
+        "a": "Apocalipsis 22",
+        "b": "Apocalipsis 16",
+        "c": "Malaquías 4"
+      }
+    },
+    {
+      "nivel": "facil",
+      "pregunta": "¿Quiénes aparecieron al lado de Jesús en la transfiguración?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "Enoc y Elías",
+        "b": "Elías y Moisés",
+        "c": "Abraham e Isaac"
+      }
+    },
+    {
+      "nivel": "facil",
+      "pregunta": "¿Quién fue la mamá de Samuel?",
+      "alternativa_correcta": "c",
+      "alternativas": {
+        "a": "Isabel",
+        "b": "María",
+        "c": "Ana"
+      }
+    },
+    {
+      "nivel": "facil",
+      "pregunta": "¿Quién dice la Biblia que fue el peor de todos los reyes de Israel?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "Saúl",
+        "b": "Acab",
+        "c": "Salomón"
+      }
+    },
+    {
+      "nivel": "facil",
+      "pregunta": "¿Quién fue la mamá de Ismael, hijo de Abraham?",
+      "alternativa_correcta": "c",
+      "alternativas": {
+        "a": "Sara",
+        "b": "Séfora",
+        "c": "Agar"
+      }
+    },
+    {
+      "nivel": "facil",
+      "pregunta": "¿Quién fue el emperador de Babilonia?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "Joacaz",
+        "b": "Nabucodonosor",
+        "c": "El faraón"
+      }
+    },
+    {
+      "nivel": "facil",
+      "pregunta": "¿Quién negó a Jesús 3 veces?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "Judas",
+        "b": "Pedro",
+        "c": "Andrés"
+      }
+    },
+    {
+      "nivel": "facil",
+      "pregunta": "¿Cuál de estos no es el nombre de un profeta?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "Ezequiel",
+        "b": "David",
+        "c": "Jeremías"
+      }
+    },
+    {
+      "nivel": "facil",
+      "pregunta": "¿Quiénes eran los «gentiles» en la Biblia?",
+      "alternativa_correcta": "c",
+      "alternativas": {
+        "a": "Los judíos",
+        "b": "Los religiosos",
+        "c": "Los «no judíos»"
+      }
+    },
+    {
+      "nivel": "facil",
+      "pregunta": "¿A quién se llama en la Biblia «Príncipe de paz»?",
+      "alternativa_correcta": "c",
+      "alternativas": {
+        "a": "Lucifer",
+        "b": "Miguel",
+        "c": "Jesús"
+      }
+    },
+    {
+      "nivel": "facil",
+      "pregunta": "¿Quién encontró a Moisés en una canasta en el río?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "La reina de Saba",
+        "b": "La hija del faraón",
+        "c": "Jocabed"
+      }
+    },
+    {
+      "nivel": "facil",
+      "pregunta": "¿Qué sucedió cuando Pablo y Silas alabaron a Dios en la prisión?",
+      "alternativa_correcta": "a",
+      "alternativas": {
+        "a": "¡Hubo un terremoto en la prisión y todas las puertas se abrieron!",
+        "b": "Los soldados les pidieron que se callaran",
+        "c": "Otros prisioneros los agredieron"
+      }
+    },
+    {
+      "nivel": "facil",
+      "pregunta": "¿Cuánto tiempo llovió durante el diluvio?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "7 días y 7 noches",
+        "b": "40 días y 40 noches",
+        "c": "3 días y 3 noches"
+      }
+    },
+    {
+      "nivel": "facil",
+      "pregunta": "¿Cómo se llamaba el ángel que se le apareció a María, la madre de Jesús?",
+      "alternativa_correcta": "c",
+      "alternativas": {
+        "a": "Rafael",
+        "b": "Miguel",
+        "c": "Gabriel"
+      }
+    },
+    {
+      "nivel": "facil",
+      "pregunta": "En la parábola del sembrador, ¿cuáles fueron las semillas que crecieron y dieron buen fruto?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "Las que cayeron entre las piedras",
+        "b": "Las que cayeron en buena tierra",
+        "c": "Las que cayeron entre los espinos"
+      }
+    },
+    {
+      "nivel": "facil",
+      "pregunta": "¿Cuál de estos nombres no se menciona en la Biblia?",
+      "alternativa_correcta": "a",
+      "alternativas": {
+        "a": "Cayo",
+        "b": "Santiago",
+        "c": "Felipe"
+      }
+    },
+    {
+      "nivel": "facil",
+      "pregunta": "¿Cuántos panes y peces usó Jesús para alimentar la multitud?",
+      "alternativa_correcta": "a",
+      "alternativas": {
+        "a": "5 panes y 2 peces",
+        "b": "7 panes y 7 peces",
+        "c": "8 panes y 1 pez"
+      }
+    },
+    {
+      "nivel": "facil",
+      "pregunta": "¿Quién persiguió a David?",
+      "alternativa_correcta": "c",
+      "alternativas": {
+        "a": "El faraón",
+        "b": "Nabucodonosor",
+        "c": "Saúl"
+      }
+    },
+    {
+      "nivel": "facil",
+      "pregunta": "¿En cuál ciudad nació Jesús?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "Jerusalén",
+        "b": "Belén",
+        "c": "Samaria"
+      }
+    },
+    {
+      "nivel": "facil",
+      "pregunta": "¿Quién ayudó a Jesús a cargar la cruz?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "Juan",
+        "b": "Simón de Cirene",
+        "c": "Timoteo"
+      }
+    },
+    {
+      "nivel": "facil",
+      "pregunta": "¿Cuál era el trabajo de David antes de ser rey?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "Cazador",
+        "b": "Pastor de ovejas",
+        "c": "Carpintero"
+      }
+    },
+    {
+      "nivel": "facil",
+      "pregunta": "¿A qué había salido la mujer de Samaria?",
+      "alternativa_correcta": "a",
+      "alternativas": {
+        "a": "A sacar agua del pozo",
+        "b": "A cazar",
+        "c": "A recoger trigo"
+      }
+    },
+    {
+      "nivel": "facil",
+      "pregunta": "¿Cómo murió Judas?",
+      "alternativa_correcta": "c",
+      "alternativas": {
+        "a": "Asesinado",
+        "b": "En un accidente",
+        "c": "Se suicidó"
+      }
+    },
+    {
+      "nivel": "facil",
+      "pregunta": "¿Cuántos discípulos tenía Jesús?",
+      "alternativa_correcta": "c",
+      "alternativas": {
+        "a": "3",
+        "b": "10",
+        "c": "12"
+      }
+    },
+    {
+      "nivel": "facil",
+      "pregunta": "¿Cuál fue el primer nombre del apóstol Pablo?",
+      "alternativa_correcta": "a",
+      "alternativas": {
+        "a": "Saulo",
+        "b": "Santiago",
+        "c": "Bernabé"
+      }
+    },
+    {
+      "nivel": "facil",
+      "pregunta": "¿Cuál fue el primer nombre de Abraham?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "Israel",
+        "b": "Abram",
+        "c": "Adán"
+      }
+    },
+    {
+      "nivel": "facil",
+      "pregunta": "¿Qué mujer de la Biblia era pariente de María, la mamá de Jesús?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "Marta",
+        "b": "Elisabet",
+        "c": "Priscila"
+      }
+    },
+    {
+      "nivel": "facil",
+      "pregunta": "¿De cuál mujer se enamoró Sansón?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "Rut",
+        "b": "Dalila",
+        "c": "Sara"
+      }
+    },
+    {
+      "nivel": "facil",
+      "pregunta": "¿A cuál profeta reemplazó Eliseo?",
+      "alternativa_correcta": "c",
+      "alternativas": {
+        "a": "Zacarías",
+        "b": "Juan el Bautista",
+        "c": "Elías"
+      }
+    },
+    {
+      "nivel": "facil",
+      "pregunta": "¿Quién no fue un apóstol?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "Pedro",
+        "b": "Isaías",
+        "c": "Juan"
+      }
+    },
+    {
+      "nivel": "facil",
+      "pregunta": "¿A quién le dijo Dios «¡El Señor está contigo, guerrero valiente!»?",
+      "alternativa_correcta": "c",
+      "alternativas": {
+        "a": "Caleb",
+        "b": "Jonás",
+        "c": "Gedeón"
+      }
+    },
+    {
+      "nivel": "facil",
+      "pregunta": "¿Quién llegó a ser el gobernador de Egipto?",
+      "alternativa_correcta": "a",
+      "alternativas": {
+        "a": "José",
+        "b": "Moisés",
+        "c": "Ramsés"
+      }
+    },
+    {
+      "nivel": "facil",
+      "pregunta": "¿Quién escribió el Cantar de los Cantares?",
+      "alternativa_correcta": "c",
+      "alternativas": {
+        "a": "David",
+        "b": "Moisés",
+        "c": "Salomón"
+      }
+    },
+    {
+      "nivel": "facil",
+      "pregunta": "¿Cuál es la 1ª frase de la Biblia?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "Había una vez",
+        "b": "En el principio",
+        "c": "Sucedió que"
+      }
+    },
+    {
+      "nivel": "facil",
+      "pregunta": "¿Quién pidió andar sobre las aguas con Jesús?",
+      "alternativa_correcta": "a",
+      "alternativas": {
+        "a": "Pedro",
+        "b": "Santiago",
+        "c": "Juan"
+      }
+    },
+    {
+      "nivel": "facil",
+      "pregunta": "¿Después de cuántos días Jesús resucitó a Lázaro?",
+      "alternativa_correcta": "c",
+      "alternativas": {
+        "a": "10",
+        "b": "1",
+        "c": "4"
+      }
+    },
+    {
+      "nivel": "facil",
+      "pregunta": "¿Cuál era el oficio de José, el papá terrenal de Jesús?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "Pescador",
+        "b": "Carpintero",
+        "c": "Cobrador de impuestos"
+      }
+    },
+    {
+      "nivel": "facil",
+      "pregunta": "En una ocasión Jesús sanó a 10 leprosos. ¿Cuántos regresaron a agradecerle?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "10",
+        "b": "1",
+        "c": "3"
+      }
+    },
+    {
+      "nivel": "facil",
+      "pregunta": "¿Cuál era el nombre del lugar donde habitaban Adán y Eva?",
+      "alternativa_correcta": "c",
+      "alternativas": {
+        "a": "El jardín colgante",
+        "b": "La Torre de Babel",
+        "c": "El jardín del Edén"
+      }
+    },
+    {
+      "nivel": "facil",
+      "pregunta": "¿Quién derrotó a Goliat?",
+      "alternativa_correcta": "c",
+      "alternativas": {
+        "a": "Josué",
+        "b": "Sansón",
+        "c": "David"
+      }
+    },
+    {
+      "nivel": "facil",
+      "pregunta": "¿A quién abandonaron y vendieron sus propios hermanos?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "A David",
+        "b": "A José",
+        "c": "A Aarón"
+      }
+    },
+    {
+      "nivel": "facil",
+      "pregunta": "¿Quién es el hombre que ha vivido por más tiempo en la tierra?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "Set",
+        "b": "Matusalén",
+        "c": "Lamec"
+      }
+    },
+    {
+      "nivel": "facil",
+      "pregunta": "¿A cuál ciudad le derrumbaron su muralla sin tocarla?",
+      "alternativa_correcta": "c",
+      "alternativas": {
+        "a": "Corinto",
+        "b": "Creta",
+        "c": "Jericó"
+      }
+    },
+    {
+      "nivel": "facil",
+      "pregunta": "¿Por qué echaron a Daniel en el foso de los leones?",
+      "alternativa_correcta": "c",
+      "alternativas": {
+        "a": "Blasfemó contra Dios.",
+        "b": "Negó a Dios 3 veces.",
+        "c": "Oraba a Dios 3 veces al día."
+      }
+    },
+    {
+      "nivel": "facil",
+      "pregunta": "¿Qué estaba escrito en la placa de la cruz en la que Jesús fue crucificado?",
+      "alternativa_correcta": "a",
+      "alternativas": {
+        "a": "Jesús Nazareno, Rey de los judíos.",
+        "b": "Culpable.",
+        "c": "Él no hizo nada."
+      }
+    },
+    {
+      "nivel": "facil",
+      "pregunta": "¿Quién interrogó a Jesús?",
+      "alternativa_correcta": "c",
+      "alternativas": {
+        "a": "Ciro",
+        "b": "Nerón",
+        "c": "Pilato"
+      }
+    },
+    {
+      "nivel": "facil",
+      "pregunta": "¿En qué parte de la Biblia se encuentra el libro de Hageo?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "Nuevo Testamento",
+        "b": "Antiguo Testamento",
+        "c": "No está en la Biblia"
+      }
+    },
+    {
+      "nivel": "facil",
+      "pregunta": "¿Cuál era el nombre del monte donde Moisés recibió los 10 Mandamientos?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "Monte Horeb",
+        "b": "Monte Sinaí",
+        "c": "Monte de los Olivos"
+      }
+    },
+    {
+      "nivel": "facil",
+      "pregunta": "¿Sobre qué animal iba montado Jesús cuando entró en Jerusalén?",
+      "alternativa_correcta": "c",
+      "alternativas": {
+        "a": "Caballo",
+        "b": "León",
+        "c": "Burro"
+      }
+    },
+    {
+      "nivel": "facil",
+      "pregunta": "¿Dónde crucificaron a Jesús?",
+      "alternativa_correcta": "a",
+      "alternativas": {
+        "a": "Gólgota",
+        "b": "Monte Sinaí",
+        "c": "Monte Horeb"
+      }
+    },
+    {
+      "nivel": "facil",
+      "pregunta": "¿Quién fue el hijo primogénito de Adán y Eva?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "Set",
+        "b": "Caín",
+        "c": "Abel"
+      }
+    },
+    {
+      "nivel": "facil",
+      "pregunta": "¿Cuántos mandamientos contenían las tablas de la Ley?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "7",
+        "b": "10",
+        "c": "2"
+      }
+    },
+    {
+      "nivel": "facil",
+      "pregunta": "«Porque tanto amó Dios al mundo que dio a su Hijo unigénito, para que todo el que cree en él no se pierda, sino que tenga vida eterna». ¿Cuál es la referencia de este versículo?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "Juan 10:10",
+        "b": "Juan 3:16",
+        "c": "Juan 1:1"
+      }
+    },
+    {
+      "nivel": "facil",
+      "pregunta": "¿Cuál fue el bandido escogido para ser liberado en vez de Jesús?",
+      "alternativa_correcta": "c",
+      "alternativas": {
+        "a": "Judas",
+        "b": "Pilato",
+        "c": "Barrabás"
+      }
+    },
+    {
+      "nivel": "facil",
+      "pregunta": "¿Qué significa Emanuel?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "Hijo de Dios",
+        "b": "Dios con nosotros",
+        "c": "Dios es Fiel"
+      }
+    },
+    {
+      "nivel": "facil",
+      "pregunta": "¿Quién tuvo un sueño que provocó celos entre sus hermanos?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "Abraham",
+        "b": "José",
+        "c": "Jacob"
+      }
+    },
+    {
+      "nivel": "facil",
+      "pregunta": "¿Cuántas tribus tenía Israel?",
+      "alternativa_correcta": "c",
+      "alternativas": {
+        "a": "7",
+        "b": "3",
+        "c": "12"
+      }
+    },
+    {
+      "nivel": "facil",
+      "pregunta": "¿Cuántas veces se sumergió en el río Jordán el comandante Naamán?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "3 veces",
+        "b": "7 veces",
+        "c": "No se sumergió"
+      }
+    },
+    {
+      "nivel": "facil",
+      "pregunta": "¿Quién deseó poder comer la comida de los cerdos?",
+      "alternativa_correcta": "c",
+      "alternativas": {
+        "a": "Saúl",
+        "b": "El endemoniado gadareno",
+        "c": "El hijo pródigo"
+      }
+    },
+    {
+      "nivel": "facil",
+      "pregunta": "¿Qué le dijo el ángel a María Magdalena cuando llegó al sepulcro vacío?",
+      "alternativa_correcta": "a",
+      "alternativas": {
+        "a": "No está aquí",
+        "b": "Se perdió",
+        "c": "Desapareció"
+      }
+    },
+    {
+      "nivel": "facil",
+      "pregunta": "¿Cuál de los discípulos no creyó hasta que vio?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "Pedro",
+        "b": "Tomás",
+        "c": "Andrés"
+      }
+    },
+    {
+      "nivel": "facil",
+      "pregunta": "¿Cuál fue el discípulo que traicionó a Jesús?",
+      "alternativa_correcta": "c",
+      "alternativas": {
+        "a": "Pedro",
+        "b": "Andrés",
+        "c": "Judas"
+      }
+    },
+    {
+      "nivel": "facil",
+      "pregunta": "¿Quién construyó el arca?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "Enoc",
+        "b": "Noé",
+        "c": "Jafet"
+      }
+    },
+    {
+      "nivel": "facil",
+      "pregunta": "¿Cuáles son los 4 Evangelios del Nuevo Testamento?",
+      "alternativa_correcta": "a",
+      "alternativas": {
+        "a": "Mateo, Marcos, Lucas y Juan",
+        "b": "Mateo, Lucas, Hechos y Juan",
+        "c": "Mateo, Marcos, Juan y Santiago"
+      }
+    },
+    {
+      "nivel": "facil",
+      "pregunta": "¿Cuál fue el Apóstol que escribió muchas de las cartas o epístolas en el Nuevo Testamento?",
+      "alternativa_correcta": "a",
+      "alternativas": {
+        "a": "Pablo",
+        "b": "Juan",
+        "c": "Pedro"
+      }
+    },
+    {
+      "nivel": "facil",
+      "pregunta": "¿Quién lideró el éxodo del pueblo hebreo en Egipto?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "José",
+        "b": "Moisés",
+        "c": "David"
+      }
+    },
+    {
+      "nivel": "facil",
+      "pregunta": "¿Cómo se llamaba el hermano de Moisés?",
+      "alternativa_correcta": "c",
+      "alternativas": {
+        "a": "Jacob",
+        "b": "Abraham",
+        "c": "Aarón"
+      }
+    },
+    {
+      "nivel": "facil",
+      "pregunta": "¿Cuál Salmo empieza con esta frase: «El Señor es mi pastor, nada me falta»?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "Salmo 90",
+        "b": "Salmo 23",
+        "c": "Salmo 21"
+      }
+    },
+    {
+      "nivel": "facil",
+      "pregunta": "¿Cuál fue el arma que utilizó David para enfrentarse a Goliat?",
+      "alternativa_correcta": "a",
+      "alternativas": {
+        "a": "Una honda o tirachinas",
+        "b": "Un machete",
+        "c": "Una espada"
+      }
+    },
+    {
+      "nivel": "facil",
+      "pregunta": "¿Cuáles son los primeros 5 libros de la Biblia?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "Mateo, Marcos, Lucas, Juan y Hechos",
+        "b": "Génesis, Éxodo, Levítico, Números y Deuteronomio",
+        "c": "Salmos, Proverbios, Eclesiastés, Cantares e Isaías"
+      }
+    },
+    {
+      "nivel": "facil",
+      "pregunta": "¿De qué no se avergonzaba Pablo?",
+      "alternativa_correcta": "c",
+      "alternativas": {
+        "a": "De sus amigos",
+        "b": "De sus palabras",
+        "c": "Del evangelio"
+      }
+    },
+    {
+      "nivel": "facil",
+      "pregunta": "¿Cómo guiaba Dios al pueblo de Israel durante el día mientras iba por el desierto?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "Con una bandada de pájaros",
+        "b": "Con una nube",
+        "c": "Con un silbido"
+      }
+    },
+    {
+      "nivel": "facil",
+      "pregunta": "¿A quién se conoce popularmente como el \"discípulo amado\"?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "Pablo",
+        "b": "Juan",
+        "c": "Santiago"
+      }
+    },
+    {
+      "nivel": "medio",
+      "pregunta": "¿Cuál de los siguientes profetas es considerado un «profeta mayor»?",
+      "alternativa_correcta": "a",
+      "alternativas": {
+        "a": "Jeremías",
+        "b": "Oseas",
+        "c": "Zacarías"
+      }
+    },
+    {
+      "nivel": "medio",
+      "pregunta": "¿De cuál de los otros apóstoles era hermano Andrés?",
+      "alternativa_correcta": "a",
+      "alternativas": {
+        "a": "Pedro (Simón)",
+        "b": "Juan",
+        "c": "Santiago"
+      }
+    },
+    {
+      "nivel": "medio",
+      "pregunta": "¿Cuáles de estas mujeres eran hermanas?",
+      "alternativa_correcta": "a",
+      "alternativas": {
+        "a": "Raquel y Lea",
+        "b": "María y Elisabet",
+        "c": "Rut y Noemí"
+      }
+    },
+    {
+      "nivel": "medio",
+      "pregunta": "¿Cuál personaje bíblico se conoce como «el hijo de la promesa»?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "Jacob",
+        "b": "Isaac",
+        "c": "Ismael"
+      }
+    },
+    {
+      "nivel": "medio",
+      "pregunta": "¿Cuál de estos no es el nombre de una de las 12 tribus de Israel?",
+      "alternativa_correcta": "c",
+      "alternativas": {
+        "a": "Leví",
+        "b": "Isacar",
+        "c": "Dina"
+      }
+    },
+    {
+      "nivel": "medio",
+      "pregunta": "¿Cuál de estas parejas no era un matrimonio?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "Abraham y Sara",
+        "b": "Lázaro y Marta",
+        "c": "Isaac y Rebeca"
+      }
+    },
+    {
+      "nivel": "medio",
+      "pregunta": "¿Cuál es el Salmo más largo de la Biblia?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "Salmo 23",
+        "b": "Salmo 119",
+        "c": "Salmo 91"
+      }
+    },
+    {
+      "nivel": "medio",
+      "pregunta": "¿Por cuánto tiempo estuvieron vagando por el desierto Moisés y el pueblo hebreo?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "25 años",
+        "b": "40 años",
+        "c": "10 años"
+      }
+    },
+    {
+      "nivel": "medio",
+      "pregunta": "¿Quién es el «Pan da Vida»?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "Juan",
+        "b": "Jesús",
+        "c": "Elías"
+      }
+    },
+    {
+      "nivel": "medio",
+      "pregunta": "¿En qué país falleció Jacob?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "Israel",
+        "b": "Egipto",
+        "c": "Siria"
+      }
+    },
+    {
+      "nivel": "medio",
+      "pregunta": "¿A cuál de los profetas se le conoce debido a sus lamentaciones?",
+      "alternativa_correcta": "a",
+      "alternativas": {
+        "a": "Jeremías",
+        "b": "Zacarías",
+        "c": "Amós"
+      }
+    },
+    {
+      "nivel": "medio",
+      "pregunta": "¿Quién escribió el libro de Apocalipsis?",
+      "alternativa_correcta": "c",
+      "alternativas": {
+        "a": "Pablo de Tarso",
+        "b": "Juan el Bautista",
+        "c": "Juan el Evangelista"
+      }
+    },
+    {
+      "nivel": "medio",
+      "pregunta": "¿Quién era el hermano mellizo de Jacob?",
+      "alternativa_correcta": "c",
+      "alternativas": {
+        "a": "Isaac",
+        "b": "Aarón",
+        "c": "Esaú"
+      }
+    },
+    {
+      "nivel": "medio",
+      "pregunta": "¿Cuál de estos ángeles no es mencionado en la Biblia evangélica?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "Miguel",
+        "b": "Rafael",
+        "c": "Gabriel"
+      }
+    },
+    {
+      "nivel": "medio",
+      "pregunta": "¿Cómo se llamaban las dos nueras de Noemí?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "Rut y Miriam.",
+        "b": "Rut y Orfa.",
+        "c": "Ana y Orfa."
+      }
+    },
+    {
+      "nivel": "medio",
+      "pregunta": "¿Quién recibió instrucción «a los pies de Gamaliel»?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "Jesús",
+        "b": "Pablo",
+        "c": "Juan"
+      }
+    },
+    {
+      "nivel": "medio",
+      "pregunta": "¿Cuál de las siguientes no es una de las parábolas que contó Jesús?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "La parábola de la moneda (dracma) perdida.",
+        "b": "La parábola del soldado prudente.",
+        "c": "La parábola del juez injusto."
+      }
+    },
+    {
+      "nivel": "medio",
+      "pregunta": "¿Qué es una parábola?",
+      "alternativa_correcta": "c",
+      "alternativas": {
+        "a": "Un conjunto de leyendas.",
+        "b": "Una historia popular en forma de música.",
+        "c": "Una historia corta con una enseñanza importante sobre un concepto moral."
+      }
+    },
+    {
+      "nivel": "medio",
+      "pregunta": "¿Cuántos años vivió Enoc antes de ser trasladado al cielo?",
+      "alternativa_correcta": "a",
+      "alternativas": {
+        "a": "365 años.",
+        "b": "965 años.",
+        "c": "900 años."
+      }
+    },
+    {
+      "nivel": "medio",
+      "pregunta": "¿Quién fue el primer ser humano nacido en la Tierra?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "Adán",
+        "b": "Caín",
+        "c": "Abel"
+      }
+    },
+    {
+      "nivel": "medio",
+      "pregunta": "¿Cuál fue la ofrenda que llevó Abel ante Dios?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "Frutos de la tierra.",
+        "b": "Lo mejor de su rebaño, es decir, los primogénitos con su grasa.",
+        "c": "Una cesta con todo lo que encontró por el camino."
+      }
+    },
+    {
+      "nivel": "medio",
+      "pregunta": "¿Quién oró fervientemente por un hijo y Dios le concedió tener a Samuel?",
+      "alternativa_correcta": "c",
+      "alternativas": {
+        "a": "Sara",
+        "b": "Eva",
+        "c": "Ana"
+      }
+    },
+    {
+      "nivel": "medio",
+      "pregunta": "¿Quién se quedó mudo por un tiempo debido a su incredulidad?",
+      "alternativa_correcta": "a",
+      "alternativas": {
+        "a": "Zacarías",
+        "b": "Abdías",
+        "c": "Jeremías"
+      }
+    },
+    {
+      "nivel": "medio",
+      "pregunta": "¿Con qué se propuso no contaminarse Daniel?",
+      "alternativa_correcta": "a",
+      "alternativas": {
+        "a": "Con la comida y el vino del rey.",
+        "b": "Con las malas costumbres de sus amigos.",
+        "c": "Con los postres que comían los de Babilonia."
+      }
+    },
+    {
+      "nivel": "medio",
+      "pregunta": "¿Cuáles son los 3 primeros libros de la Biblia?",
+      "alternativa_correcta": "c",
+      "alternativas": {
+        "a": "Génesis, Éxodo y Deuteronomio.",
+        "b": "Génesis, Éxodo y Números.",
+        "c": "Génesis, Éxodo y Levítico."
+      }
+    },
+    {
+      "nivel": "medio",
+      "pregunta": "¿Cuáles son los 2 primeros libros del Nuevo Testamento?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "Mateo y Lucas",
+        "b": "Mateo y Marcos",
+        "c": "Mateo y Hechos"
+      }
+    },
+    {
+      "nivel": "medio",
+      "pregunta": "¿Cuál era el imperio más importante en la época de Daniel?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "Imperio Romano.",
+        "b": "Imperio Babilónico.",
+        "c": "Imperio Medo."
+      }
+    },
+    {
+      "nivel": "medio",
+      "pregunta": "¿A cuál tribu se le dio la responsabilidad de cuidar el templo y guiar al pueblo en la adoración a Dios?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "Manasés",
+        "b": "Leví",
+        "c": "Judá"
+      }
+    },
+    {
+      "nivel": "medio",
+      "pregunta": "¿Cuál profeta hizo que flotara un hacha con solo echar un palo al agua?",
+      "alternativa_correcta": "a",
+      "alternativas": {
+        "a": "Eliseo",
+        "b": "Elías",
+        "c": "Jonás"
+      }
+    },
+    {
+      "nivel": "medio",
+      "pregunta": "¿Cuál rey se convirtió en un animal salvaje sin control?",
+      "alternativa_correcta": "c",
+      "alternativas": {
+        "a": "Acab",
+        "b": "Faraón",
+        "c": "Nabucodonosor"
+      }
+    },
+    {
+      "nivel": "medio",
+      "pregunta": "¿Quién fue Asaf?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "Rey de Judá",
+        "b": "Uno de los levitas",
+        "c": "Un fariseo"
+      }
+    },
+    {
+      "nivel": "medio",
+      "pregunta": "¿Cuál es la referencia del versículo: «En el principio ya existía el Verbo, y el Verbo estaba con Dios, y el Verbo era Dios.»?",
+      "alternativa_correcta": "a",
+      "alternativas": {
+        "a": "Juan 1:1",
+        "b": "Juan 3:10",
+        "c": "Juan 3:16"
+      }
+    },
+    {
+      "nivel": "medio",
+      "pregunta": "¿Cuál era el oficio de Pedro antes de seguir a Jesús?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "Publicano",
+        "b": "Pescador",
+        "c": "Albañil"
+      }
+    },
+    {
+      "nivel": "medio",
+      "pregunta": "¿Cuál de estos tres hombres era también ciudadano romano?",
+      "alternativa_correcta": "a",
+      "alternativas": {
+        "a": "Pablo",
+        "b": "Pedro",
+        "c": "Juan"
+      }
+    },
+    {
+      "nivel": "medio",
+      "pregunta": "¿A cuál árbol pertenecía el fruto prohibido que Adán y Eva comieron?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "Al árbol de la sabiduría.",
+        "b": "Al árbol del conocimiento del bien y del mal.",
+        "c": "Al árbol de la vida."
+      }
+    },
+    {
+      "nivel": "medio",
+      "pregunta": "¿Cuál fue el castigo de Eva por haber desobedecido a Dios?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "Quedaría embarazada.",
+        "b": "Tendría dolores de parto más fuertes.",
+        "c": "Quedó presa con la serpiente."
+      }
+    },
+    {
+      "nivel": "medio",
+      "pregunta": "¿Cuál de estos jóvenes era rubio y bien parecido?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "Jesús",
+        "b": "David",
+        "c": "Daniel"
+      }
+    },
+    {
+      "nivel": "medio",
+      "pregunta": "¿Cuál es la referencia bíblica de este versículo: «El que habita al abrigo del Altísimo se acoge a la sombra del Todopoderoso.»?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "Salmo 51:1",
+        "b": "Salmo 91:1",
+        "c": "Salmo 100:1"
+      }
+    },
+    {
+      "nivel": "medio",
+      "pregunta": "¿Qué personaje bíblico luchó con el ángel del Señor?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "Isaac",
+        "b": "Jacob",
+        "c": "Pedro"
+      }
+    },
+    {
+      "nivel": "medio",
+      "pregunta": "¿En qué libro de la Biblia encontramos la historia de la Torre de Babel?",
+      "alternativa_correcta": "c",
+      "alternativas": {
+        "a": "Apocalipsis",
+        "b": "Ezequiel",
+        "c": "Génesis"
+      }
+    },
+    {
+      "nivel": "medio",
+      "pregunta": "¿Quién escribió la Epístola a Tito?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "Pedro",
+        "b": "Pablo",
+        "c": "Tito"
+      }
+    },
+    {
+      "nivel": "medio",
+      "pregunta": "¿Cómo se llamaba la mamá de Juan el Bautista?",
+      "alternativa_correcta": "c",
+      "alternativas": {
+        "a": "Sara",
+        "b": "María",
+        "c": "Elisabet"
+      }
+    },
+    {
+      "nivel": "medio",
+      "pregunta": "¿Cuál era el nombre anterior de Pablo?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "Tarso",
+        "b": "Saulo",
+        "c": "Saúl"
+      }
+    },
+    {
+      "nivel": "medio",
+      "pregunta": "¿A quién lo vendieron como esclavo sus propios hermanos?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "David",
+        "b": "José",
+        "c": "Esaú"
+      }
+    },
+    {
+      "nivel": "medio",
+      "pregunta": "¿Cuál de estos hombres no era profeta?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "Amós",
+        "b": "Esaú",
+        "c": "Joel"
+      }
+    },
+    {
+      "nivel": "medio",
+      "pregunta": "¿Cómo se llamaba el hermano de Isaac por parte de padre?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "Aarón",
+        "b": "Ismael",
+        "c": "Jacob"
+      }
+    },
+    {
+      "nivel": "medio",
+      "pregunta": "¿Cuál era el nombre del hermano mayor de Jesús?",
+      "alternativa_correcta": "c",
+      "alternativas": {
+        "a": "Juan el Bautista",
+        "b": "La Biblia no cita su nombre",
+        "c": "Jesús era el primogénito"
+      }
+    },
+    {
+      "nivel": "medio",
+      "pregunta": "¿Cuál fue la señal que Judas acordó con los soldados para entregar a Jesús?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "Un saludo especial.",
+        "b": "Un beso.",
+        "c": "Un abrazo."
+      }
+    },
+    {
+      "nivel": "medio",
+      "pregunta": "¿Quiénes aparecieron junto a Jesús en el monte de la transfiguración?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "Abraham y Moisés",
+        "b": "Moisés y Elías",
+        "c": "Elías y Eliseo"
+      }
+    },
+    {
+      "nivel": "medio",
+      "pregunta": "¿Cuál profeta fue arrebatado al cielo?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "Eliseo",
+        "b": "Elías",
+        "c": "Moisés"
+      }
+    },
+    {
+      "nivel": "medio",
+      "pregunta": "¿Cuál fue el primer milagro de Jesús?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "Caminar sobre las aguas.",
+        "b": "Transformó el agua en vino durante una boda.",
+        "c": "La multiplicación de los panes y los peces."
+      }
+    },
+    {
+      "nivel": "medio",
+      "pregunta": "¿Cuál era el nombre de la comida que «caía del cielo»?",
+      "alternativa_correcta": "c",
+      "alternativas": {
+        "a": "Banquete",
+        "b": "Vianda",
+        "c": "Maná"
+      }
+    },
+    {
+      "nivel": "medio",
+      "pregunta": "¿Quién fue el papá de Salomón?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "Saúl",
+        "b": "David",
+        "c": "Jonatán"
+      }
+    },
+    {
+      "nivel": "medio",
+      "pregunta": "¿Quién fue el sumo sacerdote que cuidó de Samuel?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "Elías",
+        "b": "Elí",
+        "c": "Aarón"
+      }
+    },
+    {
+      "nivel": "medio",
+      "pregunta": "¿Cómo se llamaba la mamá de Ismael?",
+      "alternativa_correcta": "c",
+      "alternativas": {
+        "a": "Marta",
+        "b": "Sara",
+        "c": "Agar"
+      }
+    },
+    {
+      "nivel": "medio",
+      "pregunta": "¿Quién fue la mujer que pidió la cabeza de Juan el Bautista?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "Herodías",
+        "b": "La hija de Herodías.",
+        "c": "Dalila"
+      }
+    },
+    {
+      "nivel": "medio",
+      "pregunta": "¿Cómo se llamaba la esposa del rey Acab?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "Salomé",
+        "b": "Jezabel",
+        "c": "Dalila"
+      }
+    },
+    {
+      "nivel": "medio",
+      "pregunta": "¿Cuál es el nombre del monte donde reposó el arca de Noé?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "Olivos",
+        "b": "Ararat",
+        "c": "Sinaí"
+      }
+    },
+    {
+      "nivel": "medio",
+      "pregunta": "¿Dónde está el Arca del pacto?",
+      "alternativa_correcta": "c",
+      "alternativas": {
+        "a": "Escondida en el fondo del Mar Muerto.",
+        "b": "Escondida en el antiguo templo de Jerusalén.",
+        "c": "Nadie sabe dónde está."
+      }
+    },
+    {
+      "nivel": "medio",
+      "pregunta": "¿Cuál era la profesión de Noé?",
+      "alternativa_correcta": "a",
+      "alternativas": {
+        "a": "Agricultor",
+        "b": "Marinero",
+        "c": "Arquitecto"
+      }
+    },
+    {
+      "nivel": "medio",
+      "pregunta": "¿Cuál fue el castigo de Adán por desobedecer a Dios?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "Vivir separado de Eva.",
+        "b": "Trabajar la tierra maldita con el sudor de su frente.",
+        "c": "Tener que trabajar cuidando los animales."
+      }
+    },
+    {
+      "nivel": "medio",
+      "pregunta": "¿Después de cuántos días Jesús resucitó a Lázaro?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "3 días.",
+        "b": "4 días.",
+        "c": "7 días."
+      }
+    },
+    {
+      "nivel": "medio",
+      "pregunta": "¿Cómo empieza el Salmo 23?",
+      "alternativa_correcta": "c",
+      "alternativas": {
+        "a": "¡Aleluya! ¡Alabado sea el Señor! Alaben a Dios en su santuario, alábenlo en su poderoso firmamento.",
+        "b": "El Señor es mi luz y mi salvación; ¿a quién temeré?",
+        "c": "El Señor es mi pastor, nada me falta."
+      }
+    },
+    {
+      "nivel": "medio",
+      "pregunta": "¿Cuál niño escuchó la voz de Dios que le llamaba por su nombre?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "Daniel",
+        "b": "Samuel",
+        "c": "José"
+      }
+    },
+    {
+      "nivel": "medio",
+      "pregunta": "¿En cuántos días creó Dios al mundo?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "7 días",
+        "b": "6 días",
+        "c": "3 días"
+      }
+    },
+    {
+      "nivel": "medio",
+      "pregunta": "¿Cuál era uno de los objetivos para construir la Torre de Babel?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "Reconciliarse con Dios",
+        "b": "Tocar el cielo",
+        "c": "Construir viviendas"
+      }
+    },
+    {
+      "nivel": "medio",
+      "pregunta": "¿Qué dijeron sobre la tierra de Canaán los espías que envió Moisés?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "Parecíamos gigantes.",
+        "b": "Parecíamos langostas.",
+        "c": "La tierra está deshabitada."
+      }
+    },
+    {
+      "nivel": "medio",
+      "pregunta": "¿En qué libro se encuentra la historia del Arca de Noé?",
+      "alternativa_correcta": "c",
+      "alternativas": {
+        "a": "Éxodo",
+        "b": "Levítico",
+        "c": "Génesis"
+      }
+    },
+    {
+      "nivel": "medio",
+      "pregunta": "¿Quién fue el primer rey de Israel?",
+      "alternativa_correcta": "c",
+      "alternativas": {
+        "a": "David",
+        "b": "Isboset",
+        "c": "Saúl"
+      }
+    },
+    {
+      "nivel": "medio",
+      "pregunta": "¿Cuáles fueron los alimentos que Jesús multiplicó?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "Frutas",
+        "b": "Panes y pescados",
+        "c": "Leche y miel"
+      }
+    },
+    {
+      "nivel": "medio",
+      "pregunta": "¿Cuál es el primer libro del Nuevo Testamento?",
+      "alternativa_correcta": "c",
+      "alternativas": {
+        "a": "Génesis",
+        "b": "Lucas",
+        "c": "Mateo"
+      }
+    },
+    {
+      "nivel": "medio",
+      "pregunta": "¿De cuál de estas mujeres se enamoró David?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "Rut",
+        "b": "Betsabé",
+        "c": "Abisag"
+      }
+    },
+    {
+      "nivel": "medio",
+      "pregunta": "¿Quién era el marido de Betsabé?",
+      "alternativa_correcta": "a",
+      "alternativas": {
+        "a": "Urías",
+        "b": "Salomón",
+        "c": "Adonías"
+      }
+    },
+    {
+      "nivel": "medio",
+      "pregunta": "¿Quién bautizó a Jesús en el Río Jordán?",
+      "alternativa_correcta": "c",
+      "alternativas": {
+        "a": "Juan el evangelista",
+        "b": "José de Arimatea",
+        "c": "Juan el Bautista"
+      }
+    },
+    {
+      "nivel": "medio",
+      "pregunta": "¿Quién fue el sabio que conversó con Jesús?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "Gamaliel",
+        "b": "Nicodemo",
+        "c": "Salomón"
+      }
+    },
+    {
+      "nivel": "medio",
+      "pregunta": "¿Cuáles son los dos grandes mandamientos que Jesús destacó?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "No matarás / Amarás al Señor tu Dios de todo corazón.",
+        "b": "Amarás al Señor tu Dios con todo tu corazón, con toda tu alma y con toda tu mente. / Amarás a tu prójimo como a ti mismo.",
+        "c": "No codiciarás (sus siervos, animales, o cualquier otra cosa que le pertenezca) / No matarás."
+      }
+    },
+    {
+      "nivel": "medio",
+      "pregunta": "¿Cuál fue el primer milagro de Jesús?",
+      "alternativa_correcta": "a",
+      "alternativas": {
+        "a": "Transformar el agua en vino",
+        "b": "La resurrección de Lázaro",
+        "c": "La multiplicación de los panes y los peces"
+      }
+    },
+    {
+      "nivel": "medio",
+      "pregunta": "¿Cuántos magos del Oriente visitaron a Jesús?",
+      "alternativa_correcta": "c",
+      "alternativas": {
+        "a": "12",
+        "b": "3",
+        "c": "La Biblia no dice cuántos eran"
+      }
+    },
+    {
+      "nivel": "medio",
+      "pregunta": "¿A cuál profeta se lo tragó un gran pez?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "Malaquías",
+        "b": "Jonás",
+        "c": "Elías"
+      }
+    },
+    {
+      "nivel": "medio",
+      "pregunta": "¿Quién subió a un árbol para ver a Jesús pasar?",
+      "alternativa_correcta": "c",
+      "alternativas": {
+        "a": "Ananías",
+        "b": "Tadeo",
+        "c": "Zaqueo"
+      }
+    },
+    {
+      "nivel": "medio",
+      "pregunta": "¿Cuál Apóstol se quedó ciego por un corto tiempo?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "Santiago",
+        "b": "Pablo",
+        "c": "Pedro"
+      }
+    },
+    {
+      "nivel": "medio",
+      "pregunta": "¿Quién escribió el Salmo 23?",
+      "alternativa_correcta": "c",
+      "alternativas": {
+        "a": "Salomón",
+        "b": "Saúl",
+        "c": "David"
+      }
+    },
+    {
+      "nivel": "medio",
+      "pregunta": "¿Quién escribió el libro de Apocalipsis?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "Moisés",
+        "b": "Juan",
+        "c": "Pablo"
+      }
+    },
+    {
+      "nivel": "medio",
+      "pregunta": "¿A quién arrebató Dios y no conoció la muerte?",
+      "alternativa_correcta": "a",
+      "alternativas": {
+        "a": "Enoc",
+        "b": "Job",
+        "c": "Matusalén"
+      }
+    },
+    {
+      "nivel": "medio",
+      "pregunta": "¿Quién de estos tres entró en la Tierra Prometida?",
+      "alternativa_correcta": "c",
+      "alternativas": {
+        "a": "Noé",
+        "b": "Moisés",
+        "c": "Josué"
+      }
+    },
+    {
+      "nivel": "medio",
+      "pregunta": "¿A quién colocaron en una canasta y lo lanzaron al río cuando era un bebé?",
+      "alternativa_correcta": "c",
+      "alternativas": {
+        "a": "A Jesús",
+        "b": "A Jonás",
+        "c": "A Moisés"
+      }
+    },
+    {
+      "nivel": "medio",
+      "pregunta": "¿Quién fue el compañero de batallas de Josué?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "David",
+        "b": "Caleb",
+        "c": "José"
+      }
+    },
+    {
+      "nivel": "medio",
+      "pregunta": "¿Cuál es el capítulo más largo de la Biblia?",
+      "alternativa_correcta": "c",
+      "alternativas": {
+        "a": "Lucas 1",
+        "b": "Números 7",
+        "c": "Salmo 119"
+      }
+    },
+    {
+      "nivel": "medio",
+      "pregunta": "¿A quiénes se negaba Jonás a ir a predicar?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "A los amorreos",
+        "b": "A los ninivitas",
+        "c": "A los amalecitas"
+      }
+    },
+    {
+      "nivel": "medio",
+      "pregunta": "¿Quién luchó con un ángel hasta que consiguió su bendición?",
+      "alternativa_correcta": "c",
+      "alternativas": {
+        "a": "Daniel",
+        "b": "Abraham",
+        "c": "Jacob"
+      }
+    },
+    {
+      "nivel": "medio",
+      "pregunta": "¿Quién se convirtió en una estatua de sal después de mirar atrás?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "María Magdalena",
+        "b": "La mujer de Lot",
+        "c": "Rebeca"
+      }
+    },
+    {
+      "nivel": "medio",
+      "pregunta": "¿Cuánto tiempo estuvo el pueblo hebreo en el desierto?",
+      "alternativa_correcta": "c",
+      "alternativas": {
+        "a": "14 años",
+        "b": "35 días",
+        "c": "40 años"
+      }
+    },
+    {
+      "nivel": "medio",
+      "pregunta": "¿Quién escribió el libro de Lamentaciones?",
+      "alternativa_correcta": "c",
+      "alternativas": {
+        "a": "Zacarías",
+        "b": "Elías",
+        "c": "Jeremías"
+      }
+    },
+    {
+      "nivel": "medio",
+      "pregunta": "¿Qué quiere decir «Rabí»?",
+      "alternativa_correcta": "c",
+      "alternativas": {
+        "a": "Rey",
+        "b": "Padre",
+        "c": "Maestro"
+      }
+    },
+    {
+      "nivel": "medio",
+      "pregunta": "¿Dónde arrojaron a Sadrac, Mesac y Abednego?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "En una cueva de leones",
+        "b": "En un horno de fuego",
+        "c": "Al Coliseo"
+      }
+    },
+    {
+      "nivel": "medio",
+      "pregunta": "¿A quién escogieron los discípulos para sustituir a Judas Iscariote?",
+      "alternativa_correcta": "a",
+      "alternativas": {
+        "a": "Matías",
+        "b": "Pablo",
+        "c": "Bernabé"
+      }
+    },
+    {
+      "nivel": "medio",
+      "pregunta": "¿Quién fue la esposa del rey Asuero (Jerjes)?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "Rut",
+        "b": "Ester",
+        "c": "María"
+      }
+    },
+    {
+      "nivel": "medio",
+      "pregunta": "¿Quién lideró al pueblo de Israel en la entrada o conquista de la Tierra prometida?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "Moisés",
+        "b": "Josué",
+        "c": "Caleb"
+      }
+    },
+    {
+      "nivel": "medio",
+      "pregunta": "¿Qué dijo Dios justo después que bautizaran a Jesús?",
+      "alternativa_correcta": "c",
+      "alternativas": {
+        "a": "\"Jesús es el Rey de reyes\".",
+        "b": "\"No toques a mi ungido\".",
+        "c": "«Tú eres mi Hijo amado; estoy muy complacido contigo»."
+      }
+    },
+    {
+      "nivel": "dificil",
+      "pregunta": "¿Cuál mujer fue jueza y líder de Israel según dice la Biblia?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "Jael",
+        "b": "Débora",
+        "c": "Ester"
+      }
+    },
+    {
+      "nivel": "dificil",
+      "pregunta": "¿Quién reinaba en Judá cuando Nabucodonosor sitió Jerusalén?",
+      "alternativa_correcta": "c",
+      "alternativas": {
+        "a": "David",
+        "b": "Acaz",
+        "c": "Joacim"
+      }
+    },
+    {
+      "nivel": "dificil",
+      "pregunta": "¿A quién llamó Pablo «nuestro compañero de lucha»?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "Apolo",
+        "b": "Arquipo",
+        "c": "Afía"
+      }
+    },
+    {
+      "nivel": "dificil",
+      "pregunta": "¿Qué le dolió en el alma a Pablo durante su viaje a Atenas?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "La promiscuidad del pueblo griego.",
+        "b": "La cantidad de ídolos en la ciudad.",
+        "c": "La falta de sinagogas."
+      }
+    },
+    {
+      "nivel": "dificil",
+      "pregunta": "¿Cuáles discípulos le preguntaron a Jesús si podían hacer descender fuego del cielo?",
+      "alternativa_correcta": "a",
+      "alternativas": {
+        "a": "Juan y Jacobo",
+        "b": "Pedro y Juan",
+        "c": "Jacobo y Pedro"
+      }
+    },
+    {
+      "nivel": "dificil",
+      "pregunta": "¿Cómo se llamaba el rey de Israel que sacrificó en el fuego a su hijo?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "Joaz",
+        "b": "Acaz",
+        "c": "Joacaz"
+      }
+    },
+    {
+      "nivel": "dificil",
+      "pregunta": "¿Cuál era el nombre de la única hija de Lea?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "Zilpa",
+        "b": "Dina",
+        "c": "Raquel"
+      }
+    },
+    {
+      "nivel": "dificil",
+      "pregunta": "¿A cuál tribu pertenecía Saúl?",
+      "alternativa_correcta": "c",
+      "alternativas": {
+        "a": "Neftalí",
+        "b": "Leví",
+        "c": "Benjamín"
+      }
+    },
+    {
+      "nivel": "dificil",
+      "pregunta": "¿Cómo se llamaban los nominados para sustituir a Judas Iscariote?",
+      "alternativa_correcta": "a",
+      "alternativas": {
+        "a": "José (Barsabás) y Matías.",
+        "b": "Pablo y Matías.",
+        "c": "Pablo y José (Barsabás)."
+      }
+    },
+    {
+      "nivel": "dificil",
+      "pregunta": "¿A quién llamó el Apóstol Pablo \"el querido médico\"?",
+      "alternativa_correcta": "c",
+      "alternativas": {
+        "a": "Jesús",
+        "b": "Demas",
+        "c": "Lucas"
+      }
+    },
+    {
+      "nivel": "dificil",
+      "pregunta": "¿Quién tenía una cabellera que pesaba más de 2 kilos?",
+      "alternativa_correcta": "a",
+      "alternativas": {
+        "a": "Absalón",
+        "b": "David",
+        "c": "Sansón"
+      }
+    },
+    {
+      "nivel": "dificil",
+      "pregunta": "¿Cuál era el nombre babilónico de Daniel?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "Azarías",
+        "b": "Beltsasar",
+        "c": "Abednego"
+      }
+    },
+    {
+      "nivel": "dificil",
+      "pregunta": "¿Cuántos capítulos tiene el Libro de Nahúm?",
+      "alternativa_correcta": "c",
+      "alternativas": {
+        "a": "1",
+        "b": "7",
+        "c": "3"
+      }
+    },
+    {
+      "nivel": "dificil",
+      "pregunta": "¿A qué lugar llevaron a Pablo cuando estaba en Atenas para que hablara sobre Jesucristo?",
+      "alternativa_correcta": "c",
+      "alternativas": {
+        "a": "Coliseo",
+        "b": "Santuario",
+        "c": "Areópago"
+      }
+    },
+    {
+      "nivel": "dificil",
+      "pregunta": "¿Cuál fue el nombre que le dio Jacob al lugar donde soñó con Dios?",
+      "alternativa_correcta": "c",
+      "alternativas": {
+        "a": "Be­tuel",
+        "b": "Luz",
+        "c": "Betel"
+      }
+    },
+    {
+      "nivel": "dificil",
+      "pregunta": "¿Cuántos años tenía Caleb cuando le pidió Hebrón a Josué?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "40 años",
+        "b": "85 años",
+        "c": "120 años"
+      }
+    },
+    {
+      "nivel": "dificil",
+      "pregunta": "¿Cuál contiene más libros: el Antiguo Testamento o el Nuevo Testamento?",
+      "alternativa_correcta": "a",
+      "alternativas": {
+        "a": "Antiguo Testamento",
+        "b": "Nuevo Testamento",
+        "c": "Tienen la misma cantidad de libros"
+      }
+    },
+    {
+      "nivel": "dificil",
+      "pregunta": "¿Cómo se llamaba la supuesta profetisa que hacía caer a la iglesia de Tiatira en inmoralidad sexual e idolatría?",
+      "alternativa_correcta": "a",
+      "alternativas": {
+        "a": "Jezabel",
+        "b": "Lili",
+        "c": "Dalila"
+      }
+    },
+    {
+      "nivel": "dificil",
+      "pregunta": "¿Cuál es el versículo más largo de la Biblia?",
+      "alternativa_correcta": "a",
+      "alternativas": {
+        "a": "Ester 8:9",
+        "b": "Salmos 119:43",
+        "c": "Isaías 24:2"
+      }
+    },
+    {
+      "nivel": "dificil",
+      "pregunta": "¿Cómo se llamaban las 7 iglesias que recibieron las cartas en el libro de Apocalipsis?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "Éfeso, Filipos, Pérgamo, Tiatira, Creta, Filadelfia y Laodicea.",
+        "b": "Éfeso, Esmirna, Pérgamo, Tiatira, Sardis, Filadelfia y Laodicea.",
+        "c": "Éfeso, Macedonia, Pérgamo, Filipos, Tesalónica, Filadelfia y Laodicea."
+      }
+    },
+    {
+      "nivel": "dificil",
+      "pregunta": "¿Cómo se encontraba Sísara cuando murió?",
+      "alternativa_correcta": "a",
+      "alternativas": {
+        "a": "Durmiendo",
+        "b": "Luchando",
+        "c": "Orando"
+      }
+    },
+    {
+      "nivel": "dificil",
+      "pregunta": "¿Quiénes fueron algunos de los que se unieron a Pablo luego de oír su discurso en Atenas?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "Nicodemo y su familia",
+        "b": "Dionisio y Dámaris",
+        "c": "Arquímedes y Jacobo"
+      }
+    },
+    {
+      "nivel": "dificil",
+      "pregunta": "¿Cuál libro de la Biblia termina con un signo de interrogación?",
+      "alternativa_correcta": "a",
+      "alternativas": {
+        "a": "Jonás",
+        "b": "Joel",
+        "c": "Judas"
+      }
+    },
+    {
+      "nivel": "dificil",
+      "pregunta": "¿A quién Dios le prolongó la vida por 15 años más después de que oró?",
+      "alternativa_correcta": "c",
+      "alternativas": {
+        "a": "Enoc",
+        "b": "Matusalén",
+        "c": "Ezequías"
+      }
+    },
+    {
+      "nivel": "dificil",
+      "pregunta": "¿Qué le dio el faraón a José cuando lo nombró gobernador?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "Una buena cena",
+        "b": "El anillo oficial",
+        "c": "Doce caballos"
+      }
+    },
+    {
+      "nivel": "dificil",
+      "pregunta": "¿Cómo se llamaba el papá de Saúl?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "Abiel",
+        "b": "Quis / Cis",
+        "c": "Zeror"
+      }
+    },
+    {
+      "nivel": "dificil",
+      "pregunta": "¿Cuántos discípulos envió Jesús de dos en dos para preparar los lugares adonde él pensaba ir?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "7 discípulos",
+        "b": "72 discípulos",
+        "c": "12 discípulos"
+      }
+    },
+    {
+      "nivel": "dificil",
+      "pregunta": "¿Cuántos versículos tiene el Salmo 119?",
+      "alternativa_correcta": "a",
+      "alternativas": {
+        "a": "176 versículos.",
+        "b": "200 versículos.",
+        "c": "100 versículos."
+      }
+    },
+    {
+      "nivel": "dificil",
+      "pregunta": "¿A cambio de cuántas monedas Judas entregó a Jesús?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "30 monedas de oro",
+        "b": "30 monedas de plata",
+        "c": "100 denarios"
+      }
+    },
+    {
+      "nivel": "dificil",
+      "pregunta": "¿Cuáles son los libros de la Biblia en los que no encontramos la palabra «Dios»?",
+      "alternativa_correcta": "a",
+      "alternativas": {
+        "a": "Ester y Cantares",
+        "b": "Hageo y Amós",
+        "c": "Oseas y Eclesiastés"
+      }
+    },
+    {
+      "nivel": "dificil",
+      "pregunta": "¿Qué hubo cuando el Cordero rompió el séptimo sello?",
+      "alternativa_correcta": "c",
+      "alternativas": {
+        "a": "El diablo fue aprisionado durante 2000 años.",
+        "b": "Una señal que arrebató a los creyentes en Cristo.",
+        "c": "Silencio en el cielo como por media hora."
+      }
+    },
+    {
+      "nivel": "dificil",
+      "pregunta": "¿Durante el reinado de cuáles reyes profetizó Oseas?",
+      "alternativa_correcta": "c",
+      "alternativas": {
+        "a": "Saúl, David y Salomón.",
+        "b": "Josías, Joacaz, Ocozías y Jotán.",
+        "c": "Uzías, Jotán, Acaz, Ezequías y Jeroboán."
+      }
+    },
+    {
+      "nivel": "dificil",
+      "pregunta": "¿Cuántos años más vivió Noé después del diluvio?",
+      "alternativa_correcta": "a",
+      "alternativas": {
+        "a": "350 años",
+        "b": "100 años",
+        "c": "7 días"
+      }
+    },
+    {
+      "nivel": "dificil",
+      "pregunta": "¿Quién era un hombre rico y recaudador de impuestos?",
+      "alternativa_correcta": "c",
+      "alternativas": {
+        "a": "Zacarías",
+        "b": "Zebedeo",
+        "c": "Zaqueo"
+      }
+    },
+    {
+      "nivel": "dificil",
+      "pregunta": "¿Cuál de estos libros tiene más de un capítulo?",
+      "alternativa_correcta": "c",
+      "alternativas": {
+        "a": "Judas",
+        "b": "Abdías",
+        "c": "Joel"
+      }
+    },
+    {
+      "nivel": "dificil",
+      "pregunta": "¿Cuáles eran las características de la bestia que subía de la tierra en el libro de Apocalipsis?",
+      "alternativa_correcta": "a",
+      "alternativas": {
+        "a": "Dos cuernos como de cordero, pero hablaba como dragón.",
+        "b": "Diez cuernos con coronas y siete cabezas.",
+        "c": "Siete cuernos, siete cabezas y de su lengua salía fuego."
+      }
+    },
+    {
+      "nivel": "dificil",
+      "pregunta": "¿A quiénes llamaba la multitud de Listra con los nombres de Zeus y Hermes?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "Pedro y Juan",
+        "b": "Bernabé y Pablo",
+        "c": "Jesús y Pablo"
+      }
+    },
+    {
+      "nivel": "dificil",
+      "pregunta": "¿Quién gobernó siendo rey y sacerdote al mismo tiempo?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "Joacaz",
+        "b": "Melquisedec",
+        "c": "Manasés"
+      }
+    },
+    {
+      "nivel": "dificil",
+      "pregunta": "¿Cuál es el libro más corto de la Biblia?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "Judas",
+        "b": "2 Juan",
+        "c": "3 Juan"
+      }
+    },
+    {
+      "nivel": "dificil",
+      "pregunta": "¿Durante el reinado de cuál rey fue profeta Sofonías?",
+      "alternativa_correcta": "a",
+      "alternativas": {
+        "a": "Reinado de Josías.",
+        "b": "Reinado de Acab.",
+        "c": "Reinado de Acaz."
+      }
+    },
+    {
+      "nivel": "dificil",
+      "pregunta": "¿Cuál fue la mujer que primero acogió a su enemigo y después lo mató?",
+      "alternativa_correcta": "c",
+      "alternativas": {
+        "a": "Raquel",
+        "b": "Débora",
+        "c": "Jael"
+      }
+    },
+    {
+      "nivel": "dificil",
+      "pregunta": "¿Cuántos carros de hierro tenía Jabín?",
+      "alternativa_correcta": "a",
+      "alternativas": {
+        "a": "900",
+        "b": "300",
+        "c": "100"
+      }
+    },
+    {
+      "nivel": "dificil",
+      "pregunta": "¿A quiénes apodó Jesús como «Boanerges» que significa Hijos del trueno?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "Juan y Pedro",
+        "b": "Juan y Jacobo",
+        "c": "Pedro y Jacobo"
+      }
+    },
+    {
+      "nivel": "dificil",
+      "pregunta": "En la visión profética de Juan, ¿cuántos eran los jinetes del Apocalipsis?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "7",
+        "b": "4",
+        "c": "5"
+      }
+    },
+    {
+      "nivel": "dificil",
+      "pregunta": "¿Quién escribió la Epístola de Judas?",
+      "alternativa_correcta": "a",
+      "alternativas": {
+        "a": "Judas, hermano de Jacobo",
+        "b": "Judas Iscariote",
+        "c": "Juan el evangelista"
+      }
+    },
+    {
+      "nivel": "dificil",
+      "pregunta": "¿Cuáles 2 hombres dijo el Apóstol Pablo que habían naufragado en la fe?",
+      "alternativa_correcta": "c",
+      "alternativas": {
+        "a": "Janes y Jambres",
+        "b": "Silas y Bernabé",
+        "c": "Himeneo y Alejandro"
+      }
+    },
+    {
+      "nivel": "dificil",
+      "pregunta": "¿Cuál de los siguientes no es un libro apócrifo?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "Libro de Enoc",
+        "b": "Libro de Hageo",
+        "c": "Libro de Tobías"
+      }
+    },
+    {
+      "nivel": "dificil",
+      "pregunta": "¿Cuál de los discípulos acompañó a Jesús hasta su crucifixión?",
+      "alternativa_correcta": "c",
+      "alternativas": {
+        "a": "Andrés",
+        "b": "Jacobo",
+        "c": "Juan"
+      }
+    },
+    {
+      "nivel": "dificil",
+      "pregunta": "¿Cuántos años vivió Adán?",
+      "alternativa_correcta": "a",
+      "alternativas": {
+        "a": "930 años",
+        "b": "1000 años",
+        "c": "500 años"
+      }
+    },
+    {
+      "nivel": "dificil",
+      "pregunta": "¿A dónde fue Pablo después de su visita a Atenas?",
+      "alternativa_correcta": "c",
+      "alternativas": {
+        "a": "Tesalónica",
+        "b": "Roma",
+        "c": "Corinto"
+      }
+    },
+    {
+      "nivel": "dificil",
+      "pregunta": "¿Qué animal mordió a Pablo en la mano?",
+      "alternativa_correcta": "c",
+      "alternativas": {
+        "a": "Lagarto",
+        "b": "Escorpión",
+        "c": "Víbora"
+      }
+    },
+    {
+      "nivel": "dificil",
+      "pregunta": "¿Durante cuál día de la creación creó Dios el sol, la luna y las estrellas?",
+      "alternativa_correcta": "c",
+      "alternativas": {
+        "a": "1er día",
+        "b": "3er día",
+        "c": "4º día"
+      }
+    },
+    {
+      "nivel": "dificil",
+      "pregunta": "¿Cuáles elementos componían la estatua del sueño de Nabucodonosor?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "Toda de oro",
+        "b": "Oro, plata, bronce, hierro y barro",
+        "c": "Oro, plata, bronce, hierro y ónix."
+      }
+    },
+    {
+      "nivel": "dificil",
+      "pregunta": "¿Cuál fue el pueblo que recibió a Pablo con avidez y examinó bien las Escrituras para ver si era verdad?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "Los tesalonicenses",
+        "b": "Los bereanos",
+        "c": "Los atenienses"
+      }
+    },
+    {
+      "nivel": "dificil",
+      "pregunta": "De los 12 discípulos de Jesús, ¿cuáles eran hermanos? (2 pares)",
+      "alternativa_correcta": "a",
+      "alternativas": {
+        "a": "Simón (Pedro) y Andrés, Jacobo (Santiago) y Juan",
+        "b": "Jacobo (Santiago) y Juan, Tomás y Mateo",
+        "c": "Simón (Pedro) y Andrés, Tomás y Mateo"
+      }
+    },
+    {
+      "nivel": "dificil",
+      "pregunta": "¿Cómo se llamaba la mujer de Job?",
+      "alternativa_correcta": "c",
+      "alternativas": {
+        "a": "Abigail",
+        "b": "Amaráis",
+        "c": "La Biblia no dice"
+      }
+    },
+    {
+      "nivel": "dificil",
+      "pregunta": "¿Quiénes juraron no comer ni beber hasta que lograran matar a Pablo?",
+      "alternativa_correcta": "a",
+      "alternativas": {
+        "a": "Un grupo de judíos",
+        "b": "Un grupo de griegos",
+        "c": "Un grupo de romanos"
+      }
+    },
+    {
+      "nivel": "dificil",
+      "pregunta": "¿De quién dijo Jesús, «Aquí tienen a un verdadero israelita, en quien no hay falsedad»?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "De Pablo",
+        "b": "De Natanael",
+        "c": "De Pedro"
+      }
+    },
+    {
+      "nivel": "dificil",
+      "pregunta": "¿De qué se alimentaba Juan el bautista?",
+      "alternativa_correcta": "c",
+      "alternativas": {
+        "a": "De arroz y miel",
+        "b": "De cordero y verduras",
+        "c": "De langostas y miel"
+      }
+    },
+    {
+      "nivel": "dificil",
+      "pregunta": "¿A quién se le notificó que sería rey mientras buscaba las burras de su padre?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "David",
+        "b": "Saúl",
+        "c": "Acab"
+      }
+    },
+    {
+      "nivel": "dificil",
+      "pregunta": "Según el libro de Apocalipsis, ¿cuántas serán las copas del furor de Dios que se derramarán sobre la tierra?",
+      "alternativa_correcta": "c",
+      "alternativas": {
+        "a": "6",
+        "b": "12",
+        "c": "7"
+      }
+    },
+    {
+      "nivel": "dificil",
+      "pregunta": "¿Cuántas cestas de comida sobraron después de que Jesús alimentó milagrosamente a más de 4 mil personas?",
+      "alternativa_correcta": "c",
+      "alternativas": {
+        "a": "3 cestas",
+        "b": "5 cestas",
+        "c": "7 cestas"
+      }
+    },
+    {
+      "nivel": "dificil",
+      "pregunta": "¿Quién subió al cielo en un carro de fuego?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "Enoc",
+        "b": "Elías",
+        "c": "Eliseo"
+      }
+    },
+    {
+      "nivel": "dificil",
+      "pregunta": "¿Qué usó Gedeón contra los madianitas?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "Escudos, espadas y lanzas",
+        "b": "Trompetas, cántaros y antorchas",
+        "c": "Carruajes y arcos"
+      }
+    },
+    {
+      "nivel": "dificil",
+      "pregunta": "¿Quién cantaba con Pablo en la prisión antes del terremoto?",
+      "alternativa_correcta": "a",
+      "alternativas": {
+        "a": "Silas",
+        "b": "Pedro",
+        "c": "Juan"
+      }
+    },
+    {
+      "nivel": "dificil",
+      "pregunta": "¿Cuál es el nombre de la isla donde Juan escribió el libro de Apocalipsis?",
+      "alternativa_correcta": "c",
+      "alternativas": {
+        "a": "Isla de Creta",
+        "b": "Isla de Malta",
+        "c": "Isla de Patmos"
+      }
+    },
+    {
+      "nivel": "dificil",
+      "pregunta": "¿Quién entró en la ciudad danzando con el Arca de la alianza?",
+      "alternativa_correcta": "c",
+      "alternativas": {
+        "a": "Saúl",
+        "b": "Salomón",
+        "c": "David"
+      }
+    },
+    {
+      "nivel": "dificil",
+      "pregunta": "¿Quién mutiló la oreja del siervo del sumo sacerdote?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "Jesucristo",
+        "b": "Uno de los discípulos",
+        "c": "Un soldado romano"
+      }
+    },
+    {
+      "nivel": "dificil",
+      "pregunta": "¿Cuál Apóstol era hermano de Jacobo?",
+      "alternativa_correcta": "a",
+      "alternativas": {
+        "a": "Juan",
+        "b": "Tomás",
+        "c": "Pedro"
+      }
+    },
+    {
+      "nivel": "dificil",
+      "pregunta": "¿Cuál es el libro más corto del Antiguo Testamento?",
+      "alternativa_correcta": "a",
+      "alternativas": {
+        "a": "Abdías",
+        "b": "Amós",
+        "c": "Joel"
+      }
+    },
+    {
+      "nivel": "dificil",
+      "pregunta": "¿Cuál fue el mar que se abrió para que pasaran Moisés y el pueblo de Israel?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "Mar Muerto",
+        "b": "Mar Rojo",
+        "c": "Mar de Galilea"
+      }
+    },
+    {
+      "nivel": "dificil",
+      "pregunta": "Cuando David era pastor de ovejas protegió su rebaño de dos animales muy peligrosos. ¿Cuáles eran?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "Serpiente y lobo",
+        "b": "León y oso",
+        "c": "Cobra y lobo"
+      }
+    },
+    {
+      "nivel": "dificil",
+      "pregunta": "¿Cuál fue el día en el que descendió el Espíritu Santo?",
+      "alternativa_correcta": "c",
+      "alternativas": {
+        "a": "Día de Pascua",
+        "b": "Día de la Independencia",
+        "c": "Día de Pentecostés"
+      }
+    },
+    {
+      "nivel": "dificil",
+      "pregunta": "¿Quién habló con Balaam?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "Josué",
+        "b": "Una burra",
+        "c": "Un demonio"
+      }
+    },
+    {
+      "nivel": "dificil",
+      "pregunta": "¿Cuál era la tribu menor de Israel?",
+      "alternativa_correcta": "a",
+      "alternativas": {
+        "a": "Benjamín",
+        "b": "Dan",
+        "c": "Manasés"
+      }
+    },
+    {
+      "nivel": "dificil",
+      "pregunta": "¿Cómo se llamaban la mamá y la abuela de Timoteo?",
+      "alternativa_correcta": "a",
+      "alternativas": {
+        "a": "Eunice y Loida",
+        "b": "Sara y Raquel",
+        "c": "María y Elisabet"
+      }
+    },
+    {
+      "nivel": "dificil",
+      "pregunta": "¿De quién era sobrino Lot?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "De Moisés",
+        "b": "De Abraham",
+        "c": "De Saúl"
+      }
+    },
+    {
+      "nivel": "dificil",
+      "pregunta": "¿Cómo se llamaba la esposa de Moisés?",
+      "alternativa_correcta": "c",
+      "alternativas": {
+        "a": "Débora",
+        "b": "María",
+        "c": "Séfora"
+      }
+    },
+    {
+      "nivel": "dificil",
+      "pregunta": "¿Quién escribió los libros de Proverbios y Eclesiastés?",
+      "alternativa_correcta": "c",
+      "alternativas": {
+        "a": "David",
+        "b": "Moisés",
+        "c": "Salomón"
+      }
+    },
+    {
+      "nivel": "dificil",
+      "pregunta": "¿Cómo termina y dónde se encuentra este versículo? «El ladrón no viene más que a robar, matar y...",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "confundir\". Lucas 8:57.",
+        "b": "destruir\". Juan 10:10.",
+        "c": "burlarse\". Judas 2:1."
+      }
+    },
+    {
+      "nivel": "dificil",
+      "pregunta": "¿En cuáles libros de la Biblia se narra la historia del nacimiento de Jesús?",
+      "alternativa_correcta": "c",
+      "alternativas": {
+        "a": "Mateo y Marcos",
+        "b": "Marcos y Juan",
+        "c": "Mateo y Lucas"
+      }
+    },
+    {
+      "nivel": "dificil",
+      "pregunta": "¿Cómo se llamaba el hermano de Jacob?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "Aarón",
+        "b": "Esaú",
+        "c": "Set"
+      }
+    },
+    {
+      "nivel": "dificil",
+      "pregunta": "¿Quién saltó de alegría en el vientre de su madre al escuchar el saludo de María?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "Jesús",
+        "b": "Juan el Bautista",
+        "c": "Isaac"
+      }
+    },
+    {
+      "nivel": "dificil",
+      "pregunta": "¿Cuál es el último libro del Antiguo Testamento?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "Zacarías",
+        "b": "Malaquías",
+        "c": "Miqueas"
+      }
+    },
+    {
+      "nivel": "dificil",
+      "pregunta": "¿Cuál fue el rey que echó a Daniel en el foso de los leones?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "Ciro",
+        "b": "Darío",
+        "c": "Saúl"
+      }
+    },
+    {
+      "nivel": "dificil",
+      "pregunta": "¿Cuántos libros tiene la Biblia protestante?",
+      "alternativa_correcta": "a",
+      "alternativas": {
+        "a": "66",
+        "b": "63",
+        "c": "65"
+      }
+    },
+    {
+      "nivel": "dificil",
+      "pregunta": "¿Cuántas veces llamó Dios a Samuel por su nombre?",
+      "alternativa_correcta": "a",
+      "alternativas": {
+        "a": "4 veces",
+        "b": "2 veces",
+        "c": "3 veces"
+      }
+    },
+    {
+      "nivel": "dificil",
+      "pregunta": "¿Cómo se llamaban los hijos de Noé?",
+      "alternativa_correcta": "a",
+      "alternativas": {
+        "a": "Sem, Cam y Jafet.",
+        "b": "Set, Cam y Jafet.",
+        "c": "Sem, Cam y José."
+      }
+    },
+    {
+      "nivel": "dificil",
+      "pregunta": "¿Cuántos años vivió Matusalén, el hombre más anciano de la Biblia?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "864 años",
+        "b": "969 años",
+        "c": "933 años"
+      }
+    },
+    {
+      "nivel": "dificil",
+      "pregunta": "¿A cuál de estas personas no se le cambió el nombre en la Biblia?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "Pedro",
+        "b": "David",
+        "c": "Jacob"
+      }
+    },
+    {
+      "nivel": "dificil",
+      "pregunta": "¿Cómo se llamaba la ciudad que fundó Caín después de alejarse de la presencia de Dios?",
+      "alternativa_correcta": "c",
+      "alternativas": {
+        "a": "Sodoma",
+        "b": "Canaán",
+        "c": "Enoc"
+      }
+    },
+    {
+      "nivel": "dificil",
+      "pregunta": "¿Por cuántas monedas traicionó Judas a Jesús?",
+      "alternativa_correcta": "c",
+      "alternativas": {
+        "a": "30 monedas de oro",
+        "b": "40 monedas de plata",
+        "c": "30 monedas de plata"
+      }
+    },
+    {
+      "nivel": "dificil",
+      "pregunta": "¿Cómo se llamaban los hermanos de Moisés?",
+      "alternativa_correcta": "a",
+      "alternativas": {
+        "a": "Aarón y Miriam",
+        "b": "Aarón y Caleb",
+        "c": "Josué y Caleb"
+      }
+    },
+    {
+      "nivel": "dificil",
+      "pregunta": "¿Cuáles son el capítulo más largo y el capítulo más corto de la Biblia?",
+      "alternativa_correcta": "b",
+      "alternativas": {
+        "a": "El más largo es Isaías 66 y el más corto es el Salmo 2.",
+        "b": "El más largo es el Salmo 119 y el más corto es el Salmo 117.",
+        "c": "El más largo es el Salmo 150 y el más corto es Judas 1."
+      }
+    }
+  ]
+}

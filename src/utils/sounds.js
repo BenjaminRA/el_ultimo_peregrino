@@ -149,3 +149,118 @@ export const playWinSound = () => {
     bellOsc.stop(ctx.currentTime + 0.8);
   }, 600);
 };
+
+// Sonido de respuesta correcta (nota alegre y ascendente)
+export const playCorrectAnswerSound = () => {
+  const ctx = getAudioContext();
+
+  // Secuencia de notas alegres ascendentes
+  const notes = [
+    { freq: 523.25, start: 0, duration: 0.15 },     // C5
+    { freq: 659.25, start: 0.1, duration: 0.15 },   // E5
+    { freq: 783.99, start: 0.2, duration: 0.3 },    // G5 (más larga y triunfal)
+  ];
+
+  notes.forEach(note => {
+    const oscillator = ctx.createOscillator();
+    const gainNode = ctx.createGain();
+
+    oscillator.connect(gainNode);
+    gainNode.connect(ctx.destination);
+
+    oscillator.type = 'sine';
+    oscillator.frequency.value = note.freq;
+
+    gainNode.gain.setValueAtTime(0, ctx.currentTime + note.start);
+    gainNode.gain.linearRampToValueAtTime(0.35, ctx.currentTime + note.start + 0.01);
+    gainNode.gain.exponentialRampToValueAtTime(0.01, ctx.currentTime + note.start + note.duration);
+
+    oscillator.start(ctx.currentTime + note.start);
+    oscillator.stop(ctx.currentTime + note.start + note.duration);
+  });
+
+  // Agregar un brillo de campana al final
+  const bellOsc = ctx.createOscillator();
+  const bellGain = ctx.createGain();
+
+  bellOsc.connect(bellGain);
+  bellGain.connect(ctx.destination);
+
+  bellOsc.type = 'triangle';
+  bellOsc.frequency.value = 1046.50; // C6
+
+  bellGain.gain.setValueAtTime(0.2, ctx.currentTime + 0.25);
+  bellGain.gain.exponentialRampToValueAtTime(0.01, ctx.currentTime + 0.6);
+
+  bellOsc.start(ctx.currentTime + 0.25);
+  bellOsc.stop(ctx.currentTime + 0.6);
+};
+
+// Sonido de respuesta incorrecta (chicharra/buzzer clásico)
+export const playIncorrectAnswerSound = () => {
+  const ctx = getAudioContext();
+
+  // Chicharra con dos pulsos rápidos y ásperos
+  // Primer pulso
+  const buzz1 = ctx.createOscillator();
+  const gain1 = ctx.createGain();
+
+  buzz1.connect(gain1);
+  gain1.connect(ctx.destination);
+
+  buzz1.type = 'sawtooth';
+  buzz1.frequency.value = 220; // Frecuencia baja y áspera
+
+  gain1.gain.setValueAtTime(0.4, ctx.currentTime);
+  gain1.gain.exponentialRampToValueAtTime(0.01, ctx.currentTime + 0.15);
+
+  buzz1.start(ctx.currentTime);
+  buzz1.stop(ctx.currentTime + 0.15);
+
+  // Segundo pulso (un poco más corto)
+  const buzz2 = ctx.createOscillator();
+  const gain2 = ctx.createGain();
+
+  buzz2.connect(gain2);
+  gain2.connect(ctx.destination);
+
+  buzz2.type = 'sawtooth';
+  buzz2.frequency.value = 220;
+
+  gain2.gain.setValueAtTime(0.4, ctx.currentTime + 0.15);
+  gain2.gain.exponentialRampToValueAtTime(0.01, ctx.currentTime + 0.3);
+
+  buzz2.start(ctx.currentTime + 0.15);
+  buzz2.stop(ctx.currentTime + 0.3);
+
+  // Agregar un componente de ruido/distorsión con onda cuadrada
+  const square1 = ctx.createOscillator();
+  const gainSquare1 = ctx.createGain();
+
+  square1.connect(gainSquare1);
+  gainSquare1.connect(ctx.destination);
+
+  square1.type = 'square';
+  square1.frequency.value = 110; // Una octava más baja
+
+  gainSquare1.gain.setValueAtTime(0.25, ctx.currentTime);
+  gainSquare1.gain.exponentialRampToValueAtTime(0.01, ctx.currentTime + 0.15);
+
+  square1.start(ctx.currentTime);
+  square1.stop(ctx.currentTime + 0.15);
+
+  const square2 = ctx.createOscillator();
+  const gainSquare2 = ctx.createGain();
+
+  square2.connect(gainSquare2);
+  gainSquare2.connect(ctx.destination);
+
+  square2.type = 'square';
+  square2.frequency.value = 110;
+
+  gainSquare2.gain.setValueAtTime(0.25, ctx.currentTime + 0.15);
+  gainSquare2.gain.exponentialRampToValueAtTime(0.01, ctx.currentTime + 0.3);
+
+  square2.start(ctx.currentTime + 0.15);
+  square2.stop(ctx.currentTime + 0.3);
+};

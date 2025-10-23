@@ -1,6 +1,7 @@
 import { useState, useEffect } from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
 import Chest from '../components/Chest';
+import QuestionModal from '../components/QuestionModal';
 
 function Game() {
   const { numChests } = useParams();
@@ -12,6 +13,7 @@ function Game() {
   const [openedChests, setOpenedChests] = useState(new Set());
   const [gameWon, setGameWon] = useState(false);
   const [showConfetti, setShowConfetti] = useState(false);
+  const [showQuestionModal, setShowQuestionModal] = useState(false);
 
   // Inicializar el juego
   useEffect(() => {
@@ -95,6 +97,12 @@ function Game() {
 
             <div className="flex gap-3">
               <button
+                onClick={() => setShowQuestionModal(true)}
+                className="px-6 py-3 bg-linear-to-b from-purple-400 to-purple-600 text-white font-bold rounded-lg shadow-lg hover:shadow-xl transform hover:scale-105 transition-all duration-300 border-2 border-purple-700"
+              >
+                📖 Pregunta Bíblica
+              </button>
+              <button
                 onClick={handlePlayAgain}
                 className="px-6 py-3 bg-linear-to-b from-blue-400 to-blue-600 text-white font-bold rounded-lg shadow-lg hover:shadow-xl transform hover:scale-105 transition-all duration-300 border-2 border-blue-700"
               >
@@ -122,6 +130,12 @@ function Game() {
           )}
         </div>
       </div>
+
+      {/* Modal de preguntas bíblicas */}
+      <QuestionModal
+        isOpen={showQuestionModal}
+        onClose={() => setShowQuestionModal(false)}
+      />
 
       {/* Grid de cofres */}
       <div className="max-w-7xl mx-auto">
