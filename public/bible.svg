@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Bible book cover -->
+  <rect x="20" y="15" width="60" height="70" rx="3" fill="#8B4513" stroke="#654321" stroke-width="2" />
+
+  <!-- Pages -->
+  <rect x="25" y="18" width="50" height="64" fill="#F5E6D3" />
+
+  <!-- Cross on cover -->
+  <rect x="47" y="35" width="6" height="25" fill="#DAA520" />
+  <rect x="38" y="44" width="24" height="6" fill="#DAA520" />
+
+  <!-- Book spine highlight -->
+  <rect x="20" y="15" width="5" height="70" rx="3" fill="#654321" />
+
+  <!-- Page lines -->
+  <line x1="30" y1="30" x2="70" y2="30" stroke="#D4C4B0" stroke-width="1" />
+  <line x1="30" y1="40" x2="70" y2="40" stroke="#D4C4B0" stroke-width="1" />
+  <line x1="30" y1="60" x2="70" y2="60" stroke="#D4C4B0" stroke-width="1" />
+  <line x1="30" y1="70" x2="70" y2="70" stroke="#D4C4B0" stroke-width="1" />
+</svg>
