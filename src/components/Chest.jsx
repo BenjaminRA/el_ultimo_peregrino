@@ -1,5 +1,6 @@
 import { useState } from 'react';
 import { playClickSound, playShakingSound, playEmptySound, playWinSound } from '../utils/sounds';
+import treasureChestImg from '../assets/treasure-chest.png';
 
 function Chest({ number, hasPrize, onOpen, isOpened }) {
   const [isShaking, setIsShaking] = useState(false);
@@ -67,7 +68,7 @@ function Chest({ number, hasPrize, onOpen, isOpened }) {
             {!isOpened ? (
               // Cofre cerrado - Diseño más elegante
               <div className="text-center w-full px-4">
-                <div className="text-5xl md:text-7xl mb-3">🎁</div>
+                <img src={treasureChestImg} alt="Cofre del tesoro" className="w-16 h-16 md:w-24 md:h-24 mb-3 mx-auto" />
                 <div className="flex flex-col items-center space-y-2">
                   {/* Cerradura decorativa */}
                   <div className="w-12 h-12 md:w-16 md:h-16 bg-gold-600 rounded-lg border-4 border-gold-700 shadow-lg flex items-center justify-center">
